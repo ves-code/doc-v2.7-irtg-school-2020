@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title="STL class." alt="" coords="5,81,120,108"/>
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1_exception.html" title=" " alt="" coords="219,5,349,32"/>
+<area shape="rect" id="node3" href="$class_p_l_m_d_1_1lepton_1_1_exception.html" title="This class is used for all exceptions thrown by lepton." alt="" coords="194,56,374,83"/>
+<area shape="rect" id="node6" href="$class_p_l_m_d_1_1_plumed_1_1_exception.html" title="Base class used to rethrow PLUMED exceptions." alt="" coords="190,107,378,133"/>
+<area shape="rect" id="node10" href="$class_p_l_m_d_1_1_plumed_1_1_lepton_exception.html" title="Class used to rethrow Lepton exceptions." alt="" coords="168,157,400,184"/>
+<area shape="rect" id="node4" href="$class_p_l_m_d_1_1_exception_debug.html" title="Class representing a debug error (can only be thrown when using debug options)" alt="" coords="477,5,650,32"/>
+<area shape="rect" id="node5" href="$class_p_l_m_d_1_1_exception_error.html" title="Class representing a generic error." alt="" coords="482,56,645,83"/>
+<area shape="rect" id="node7" href="$class_p_l_m_d_1_1_plumed_1_1_exception_debug.html" title="Used to rethrow a PLMD::ExceptionDebug." alt="" coords="448,107,679,133"/>
+<area shape="rect" id="node8" href="$class_p_l_m_d_1_1_plumed_1_1_exception_error.html" title="Used to rethrow a PLMD::ExceptionError." alt="" coords="454,157,673,184"/>
+<area shape="rect" id="node9" href="$class_p_l_m_d_1_1_plumed_1_1_invalid.html" title="Thrown when trying to access an invalid plumed object." alt="" coords="479,208,647,235"/>
+</map>
